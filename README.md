@@ -527,7 +527,7 @@ if (isSessionValid) {
 
 ### Object.freeze, Object.preventExtensions, Object.seal, with, eval
 
-Crazy shit that you will probably never need. Stay away from it.
+you will probably never need. Stay away from it.
 
 ### Requires At Top
 
